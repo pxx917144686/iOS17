@@ -17,7 +17,7 @@
 1. **克隆本项目到本地并进入项目目录**
    - 打开终端或命令提示符，执行以下命令克隆项目：
      ```shell
-     git clone https://github.com/你的仓库/iOSRealRun-cli-17.git
+     git clone https://github.com/pxx917144686/iOS17/archive/refs/heads/main.zip
      ```
      或者下载 ZIP 文件并解压。
 
